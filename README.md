@@ -73,5 +73,5 @@ Future enhancements could include:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/electricity-prediction-informer.git
-   cd electricity-prediction-informer
+   git clone https://github.com/OskarEM/Informer-Electricity-prediction.git
+   cd Informer-Electricity-prediction
